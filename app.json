@@ -4,9 +4,9 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/hindihd/secret",
+  "repository": "https://github.com/hindihd/letcrack",
   "success_url": "https://t.me/sensei_anime",
-  "website": "https://github.com/hindihd/secret",
+  "website": "https://github.com/hindihd/letcrack",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
